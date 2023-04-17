@@ -1,10 +1,22 @@
-<h1 align="center">Oi, Eu sou Matheus Garcia</h1>
+<h1 align="center">Oi 👋, Eu sou Matheus Garcia</h1>
+
+<p>
+Comecei a estudar programação em Janeiro de 2023, estou estudando Java, javaScript, Html, Css e fazendo faculdade de Análise e Desenvolvimento de Sistemas. </p>
+
+<ul>
+  <li>Pretendo me tornar Dev FullStack</li>
+  <li>Estudando inglês</li>
+  <li>Amo codar e criar coisas</li>
+</ul>
+
+  ##
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4theus13&count_private=true&show_icons=true&theme=transparent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4theus13&langs_count=8&layout=compact&theme=transparent">
 </div>
 
+<h3 align="center">⚙Habilidades</h3>
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
