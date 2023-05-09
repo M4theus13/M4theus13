@@ -12,8 +12,8 @@ Comecei a estudar programação em Janeiro de 2023, estou estudando Java, javaSc
   ##
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4theus13&count_private=true&show_icons=true&theme=transparent">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4theus13&langs_count=10&layout=compact&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4theus13&count_private=true&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4theus13&langs_count=9&layout=compact&theme=transparent">
 </div>
 
 <h3 align="center">⚙Habilidades</h3>
