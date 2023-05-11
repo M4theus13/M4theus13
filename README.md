@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Matheus Garcia</h1>
 
 <p>
-Comecei a estudar programação em Janeiro de 2023, estou estudando Java, javaScript, Html, Css e fazendo faculdade de Análise e Desenvolvimento de Sistemas. </p>
+Comecei a estudar programação em Janeiro de 2023, estou estudando Java, javaScript, Python, Html, Css e fazendo faculdade de Análise e Desenvolvimento de Sistemas. </p>
 
 <ul>
   <li>Pretendo me tornar Dev FullStack</li>
