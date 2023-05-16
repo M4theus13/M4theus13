@@ -9,6 +9,34 @@ Comecei a estudar programação em Janeiro de 2023, estou estudando Java, javaSc
   <li>Amo codar e criar coisas</li>
 </ul>
 
+##
+  
+<h3 align="center">👨‍💻Habilidades👨‍💻</h3>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+
+  ##
+
+<h3 align="center">📞Contate-me📞</h3>
+<div align="center">
+  <a href="mailto:matheusgarciajbs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://www.instagram.com/theuz_gsantos/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/matheus-garcia-990659267/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
   ##
 
 <div align="center">
@@ -38,30 +66,4 @@ Comecei a estudar programação em Janeiro de 2023, estou estudando Java, javaSc
   </a>
 </div>
 
-##
-  
-<h3 align="center">👨‍💻Habilidades👨‍💻</h3>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
 
-  ##
-
-<h3 align="center">📞Contate-me📞</h3>
-<div align="center">
-  <a href="mailto:matheusgarciajbs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://www.instagram.com/theuz_gsantos/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/matheus-garcia-990659267/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
