@@ -32,7 +32,7 @@ Estou sempre tentando criar coisas novas, ou fazer eu mesmo algo que ja existe, 
   </div>
 </div>
 
-<h3 align="center">📞Contate-me📞</h3>
+<h3 align="center">📞Contato📞</h3>
 <div align="center">
   <a href="mailto:matheusgarciajbs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
