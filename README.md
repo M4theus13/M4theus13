@@ -5,7 +5,7 @@ Comecei a estudar programação em Janeiro de 2023, e estou fazendo faculdade de
 </p>
 
 <p>
-Estou sempre tentando criar coisas novas, ou fazer eu mesmo algo que ja existe, só que com o meu jeito para poder aprender mais.
+Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu mesmo algo que ja existe, só que com o meu jeito para poder aprender mais.
 </p>
 
 <ul>
