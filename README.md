@@ -30,6 +30,7 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
   <div style="display: inline_block" align="center">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </div>
 </div>
 
