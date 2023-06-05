@@ -17,8 +17,9 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
 ##
 
 <div style="display: flex">
-  <h3 align="center">👨‍💻Habilidades👨‍💻</h3>
-  <div style="display: inline_block" align="center">
+  <div style="border: 1px solid; border-radius: 10px; padding: 20px; margin: auto" align="center">
+    <h3 style="border-bottom: 1px solid;">👨‍💻Habilidades👨‍💻</h3>
+    <br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -26,13 +27,21 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </div>
 
-  <h3 align="center">📚Estudando📚</h3>
-  <div style="display: inline_block" align="center">
+  <div style="border: 1px solid; border-radius: 10px; padding: 20px; margin: auto" align="center">
+    <h3 style="border-bottom: 1px solid;">🛠️FrameWorks🛠️</h3>
+    <br>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  </div>
+
+  <div style="border: 1px solid; border-radius: 10px; padding: 20px; margin: auto" align="center">
+    <h3 style="border-bottom: 1px solid;">📚Estudando📚</h3>
+    <br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </div>
 </div>
+
 
 <h3 align="center">📞Contato📞</h3>
 <div align="center">
