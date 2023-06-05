@@ -42,6 +42,23 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
   </div>
 </div>
 
+##
+
+<h3 align="center">📞Contato📞</h3>
+<div align="center">
+  <a href="mailto:matheusgarciajbs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://www.instagram.com/theuz_gsantos/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/matheus-garcia-990659267/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
   ##
 
 <div align="center">
@@ -77,20 +94,3 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{M4theus13}/count.svg" /></p> 
 <br></div>
 -->
-
-##
-
-<h3 align="center">📞Contato📞</h3>
-<div align="center">
-  <a href="mailto:matheusgarciajbs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://www.instagram.com/theuz_gsantos/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/matheus-garcia-990659267/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
