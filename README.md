@@ -78,4 +78,9 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
   </a>
 </div>
 
-
+<!-- contador de visitas no perfil
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{M4theus13}/count.svg" /></p> 
+<br></div>
+-->
