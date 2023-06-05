@@ -17,8 +17,8 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
 ##
 
 <div style="display: flex">
-  <div style="border: 1px solid; border-radius: 10px; padding: 20px; margin: auto" align="center">
-    <h3 style="border-bottom: 1px solid;">👨‍💻Habilidades👨‍💻</h3>
+  <div align="center">
+    <h3>👨‍💻Habilidades👨‍💻</h3>
     <br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -27,14 +27,14 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </div>
 
-  <div style="border: 1px solid; border-radius: 10px; padding: 20px; margin: auto" align="center">
-    <h3 style="border-bottom: 1px solid;">🛠️FrameWorks🛠️</h3>
+  <div align="center">
+    <h3>🛠️FrameWorks🛠️</h3>
     <br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   </div>
 
-  <div style="border: 1px solid; border-radius: 10px; padding: 20px; margin: auto" align="center">
-    <h3 style="border-bottom: 1px solid;">📚Estudando📚</h3>
+  <div align="center">
+    <h3>📚Estudando📚</h3>
     <br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -42,6 +42,7 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
   </div>
 </div>
 
+##
 
 <h3 align="center">📞Contato📞</h3>
 <div align="center">
