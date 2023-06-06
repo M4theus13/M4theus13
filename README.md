@@ -16,7 +16,7 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
 
 ##
 
-<span align="center">
+<p align="center">
   <kbd>
     <kbd>👨‍💻Habilidades👨‍💻</kbd>
     <br>
@@ -43,7 +43,7 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </kbd>
-</span>
+</p>
 
 ##
 
@@ -97,3 +97,8 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{M4theus13}/count.svg" /></p> 
 <br></div>
 -->
+  
+  ![](https://i.imgur.com/waxVImv.png)
+<p align="center">
+  <img src="https://github.com/M4theus13/M4theus13/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
