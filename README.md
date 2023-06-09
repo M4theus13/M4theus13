@@ -69,7 +69,7 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4theus13&hide_border=true&card_width=338&theme=transparent&hide_border=true" />
   </a>
   
-  <!--
+  <!-- 
   <a href="https://github.com/M4theus13">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4theus13&show_icons=true&count_private=true&theme=transparent&hide_border=true">
   </a>
