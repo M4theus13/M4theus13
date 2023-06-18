@@ -14,6 +14,8 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
   <li>Amo codar e criar coisas</li>
 </ul>
 
+ ##
+
 <div align='center'>
   
 <kbd>
@@ -87,6 +89,8 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
 </div>
 </kbd>
 
+ ##
+
 <div align="center">
   <a href="https://github.com/M4theus13">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4theus13&hide_border=true&card_width=338&theme=transparent&hide_border=true" />
@@ -121,7 +125,7 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
 <br></div>
 -->
   
-  ![](https://i.imgur.com/waxVImv.png)
+![](https://i.imgur.com/waxVImv.png)
 <p align="center">
   <img src="https://github.com/M4theus13/M4theus13/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
