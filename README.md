@@ -85,6 +85,9 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
   <a href="mailto:matheusgarciajbs@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://beacons.ai/matheusgarcia" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=plastic&logo=About.me&logoColor=white" height="25" alt="portifolio logo"   />
+  </a>
   <img width="2" />
 </div>
 </kbd>
