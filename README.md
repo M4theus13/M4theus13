@@ -94,39 +94,11 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
 
  ##
 
-<div align="center">
-  <a href="https://github.com/M4theus13">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4theus13&hide_border=true&card_width=338&theme=transparent&hide_border=true" />
-  </a>
-  
-  <!-- 
-  <a href="https://github.com/M4theus13">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4theus13&show_icons=true&count_private=true&theme=transparent&hide_border=true">
-  </a>
-  -->
-  
-<div align="center">
-  <a href="https://github.com/M4theus13">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=M4theus13&theme=transparent&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/M4theus13">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4theus13&langs_count=10&layout=compact&theme=transparent&hide_border=true">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/M4theus13">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M4theus13&theme=transparent&hide_border=true" />
-  </a>
-</div>
-
-<!-- contador de visitas no perfil.
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{M4theus13}/count.svg" /></p> 
-<br></div>
--->
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=M4theus13&theme=tokyonight&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=M4theus13&hide_border=true&card_width=338&theme=tokyonight&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M4theus13&langs_count=10&layout=compact&theme=tokyonight&hide_border=true) |
+| :-: | :-: | :-: |
+ 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M4theus13&theme=tokyonight&hide_border=true ) |
+| :-: |
   
 ![](https://i.imgur.com/waxVImv.png)
 <p align="center">
