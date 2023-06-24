@@ -35,8 +35,6 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
     <img width="2" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-    <img width="2" />
   </div>
 </kbd>
 
@@ -66,6 +64,8 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
     <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
     <img width="2" />
   </div>
 </kbd>
