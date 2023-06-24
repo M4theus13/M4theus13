@@ -1,5 +1,7 @@
-<h1 align="center"> Oi 👋, Eu sou Matheus Garcia </h1>
+<!--<h1 align="center"> Oi 👋, Eu sou Matheus Garcia </h1>-->
 <!--readme-->
+<img width=100% src="https://github.com/M4theus13/Assets_Projects/blob/main/Readme/background.gif"></img>
+
 <p>
 Comecei a estudar programação em Janeiro de 2023, e estou fazendo faculdade de Análise e Desenvolvimento de Sistemas. 
 </p>
