@@ -41,7 +41,7 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
 <img width="2" />
 
 <kbd>
-  <h3 align="center">🛠️FrameWorks🛠️</h3>
+  <h3 align="center">🛠️FrameWorks/Bibliotecas🛠️</h3>
   
   <div align="center">
     <img width="2" />
