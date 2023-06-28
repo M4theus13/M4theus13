@@ -46,6 +46,8 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
     <img width="2" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" alt="angular logo" />
+    <img width="2" />
     <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
     <img width="2" />
   </div>
@@ -66,6 +68,7 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
     <img width="2" />
+
   </div>
 </kbd>
 <div>
