@@ -30,9 +30,9 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
     <img width="2" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+    <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
     <img width="2" />
-    <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
     <img width="2" />
   </div>
 </kbd>
@@ -62,13 +62,12 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
     <img width="2" />
-    <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-    <img width="2" />
     <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
     <img width="2" />
-
+    <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+    <img width="2" />
   </div>
 </kbd>
 <div>
