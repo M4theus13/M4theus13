@@ -104,6 +104,4 @@ Seguindo na área de Web, estou sempre tentando criar coisas novas, ou fazer eu 
 | :-: |
   
 ![](https://i.imgur.com/waxVImv.png)
-<p align="center">
-  <img src="https://github.com/M4theus13/M4theus13/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
+
